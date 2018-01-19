@@ -2,7 +2,7 @@
 
 This week we will be using our resume website created in the CSS course.  We will be converting this page into a contact directory. The template has been slightly modified for you.  You will be using json data from https://randomuser.me/api/?results=10. Below are the requirements for this task.
 
-1) Create a PHP class for the Data. This should have a method to fetch the data from https://jsonplaceholder.typicode.com/users .  Here is and example of using curl to get the data.
+1) Create a PHP class for the Data. This should have a method to fetch the data from https://randomuser.me/api/?results=10.  Here is and example of using curl to get the data.
 
 ```
 $ch = curl_init();
